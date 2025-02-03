@@ -15,3 +15,8 @@ Les escargots persillés: Caracoles al perejil, un plato típico de la región d
 - El vino tinto es el más consumido en Francia.
 - El coñac, armañac, calvados, Chambord, Chartreuse, Cointreau y Crème de cassis son algunos de los licores típicos de Francia. 
 - El pastís es un licor anisado que se suele tomar como aperitivo, diluido con agua. 
+
+## Consejos
+- Siempre usa carnes frescas
+- Deja marinar las carnes
+- Verduras siempre frescas
