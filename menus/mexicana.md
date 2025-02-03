@@ -8,3 +8,11 @@ La base de la cocina mexicana actual deriva en gran parte de la cocina existente
 - Pozole: Se prepara con maíz cacahuazintle, que tiene granos más grandes y duros. 
 - Enchiladas: Son tortillas de maíz rellenas de carne y bañadas en salsa.
 - Chalupas: Se preparan con tortilla, papa, pollo, queso, salsa verde, lechuga, cebolla y rábanos.
+
+## Bebidas Recomendadas
+- Tequila
+- Mezcal
+- Pulque
+- Sotol
+- Pox
+- Tepache
