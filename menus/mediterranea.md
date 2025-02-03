@@ -15,4 +15,14 @@ La comida mediterránea es un conjunto de platos y métodos de preparación que 
 - Vino Un alimento tradicional en la dieta mediterránea que se debe tomar con moderación. 
 - Licores Las regiones mediterráneas tienen muchos licores, como el Ouzo griego, el Limoncello italiano, el Orujo de Hierbas español y el rakia montenegrino. 
 - Bebidas cítricas Refrescantes y llenas de vitamina C, como el Agua de Valencia, que se prepara con zumo de naranja, cava, vodka y ginebra. 
-- Bebidas sin alcohol Como la horchata de chufa, una bebida blanca y dulce a base de tubérculos de chufa. 
+- Bebidas sin alcohol Como la horchata de chufa, una bebida blanca y dulce a base de tubérculos de chufa.
+
+## Consejos
+- Consumir alimentos frescos y de temporada
+- Utilizar aceite de oliva virgen extra para preparar los alimentos
+- Consumir alimentos ricos en fibra, como granos enteros, legumbres y verduras
+- Consumir pescado y mariscos con frecuencia
+- Consumir carne roja con moderación, preferentemente en guisos
+- Limitar el consumo de alimentos con azúcar añadido
+- Consumir productos lácteos con moderación, como yogurt y quesos
+- Consumir fruta fresca como postre
