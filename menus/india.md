@@ -10,3 +10,10 @@ La cocina de la india es famosa por sus sabores frescos y auténticos con muchas
 - Vindaloo de ternera: Plato picante 
 - Dhal o dal: Leguminosas secas como frijoles, chícharos o lentejas, guisadas con especias 
 - Curry: Mezcla de especias tostadas y hidratadas en salsa, que se usa para acompañar guisos 
+
+## Bebidas Recomendadas
+- Té
+- Lassi
+- El lassi
+- Masala chai
+- Nimbu pani
