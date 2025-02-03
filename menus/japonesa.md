@@ -12,3 +12,11 @@ La comida japonesa se caracteriza por su sencillez, elegancia y respeto por la n
 - Té verde
 - Sake
 - Shochu
+
+## Consejos
+- Sorber la sopa y los fideos es común, pero chasquear los labios o eructar no.
+- No cruzar los palillos, ni usarlos para pinchar o atravesar la comida.
+- No apoyar los codos sobre la mesa.
+- No comer directamente de la bandeja común.
+- No clavar los palillos de manera vertical en el cuenco de arroz.
+- No apuntar con los palillos.
