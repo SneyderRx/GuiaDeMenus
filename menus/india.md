@@ -17,3 +17,7 @@ La cocina de la india es famosa por sus sabores frescos y auténticos con muchas
 - El lassi
 - Masala chai
 - Nimbu pani
+
+## Consejos
+- Verifica que los ingredientes esten fresco, ya que se usa muchos vegetales.
+- Marina las carnes con anticipacion para mayor sabor y cuidado de la salud.
