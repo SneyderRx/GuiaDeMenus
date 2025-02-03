@@ -17,3 +17,10 @@ La comida china es una tradición culinaria antigua y rica que se caracteriza po
 - Leche de soja.
 - Leche de coco.
 - Vino Osmanthus.
+
+## Consejos
+- Controlar las porciones, especialmente de carbohidratos como el arroz o los fideos. 
+- Reducir el consumo de sodio y usar salsas bajas en sodio. 
+- Usar especias como el jengibre o el ajo para dar sabor sin sal. 
+- Elegir proteínas magras como pollo, tofu o mariscos cocidos al vapor o a la parrilla. 
+- Incluir verduras que ocupen al menos la mitad del plato. 
