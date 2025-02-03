@@ -18,3 +18,11 @@ Los postres se caracterizan por ser preparaciones dulces que pueden tener difere
 - Vino blanco: Combina bien con tartas frescas
 - Vino dulce: Combina bien con pastas y bizcochos
 - Vino rosado seco: Combina bien con tartas de queso
+
+## Consejos
+- Usar frutas
+- Utilizar aceite de oliva
+- Sustituir los ingredientes refinados por integrales
+- Usar endulzantes naturales como miel de abeja
+- Agregar frutos secos
+- Buscar opciones bajas en grasa
