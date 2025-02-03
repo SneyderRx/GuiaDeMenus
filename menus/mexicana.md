@@ -16,3 +16,11 @@ La base de la cocina mexicana actual deriva en gran parte de la cocina existente
 - Sotol
 - Pox
 - Tepache
+
+## Consejos
+- Para que las tortillas de maíz se mantengan frescas, puedes humedecerlas con agua y calentarlas. 
+- Para quitar la piel de los jitomates, puedes sumergirlos en agua hirviendo por dos minutos. 
+- Para reducir el picante de los chiles, puedes remojarlos en una mezcla de agua y vinagre. 
+- Para hacer guacamole, puedes usar paltas maduras y ajustar la cantidad de ají y limón a tu gusto. 
+- Para hacer chiles rellenos, puedes asar los ajíes hasta que la piel se desprenda fácilmente. 
+- Para hacer esquites, puedes cocer los granos de maíz en caldo con epazote y mezclarlos con mayonesa, queso, ají, jugo de limón y salsa picante. 
