@@ -13,3 +13,8 @@ La alimentación vegetariana es aquella que excluye el consumo intencionado de c
 - Leches vegetales
 - Vinos libres de proteína animal
 - Smoothies
+
+## Consejos
+- Consumir alimentos fortificados: Los cereales, panes, leche de soya o de almendra y los jugos de fruta son alimentos fortificados que te aportan una gran variedad de nutrientes. 
+- Incluir proteínas: Incluye una fuente de proteínas en todas tus comidas. 
+- Reducir alimentos procesados: Evita los alimentos que sean ricos en grasa, azúcar y sal (sodio). 
