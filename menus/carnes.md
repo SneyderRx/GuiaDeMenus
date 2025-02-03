@@ -14,3 +14,7 @@ Los platos de carne son alimentos que se preparan con carne, total o parcialment
 - Clericot.
 - Agua fresca.
 - Cócteles.
+
+## Consejos
+- Estar muy pendientes de los tiempos de coccion para lograr el mejor punto de su carne.
+- Adobar con anticipacion para logar el mejor sabor
